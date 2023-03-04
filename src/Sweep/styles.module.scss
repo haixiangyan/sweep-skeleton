@@ -25,10 +25,7 @@
 
   .sweepLight {
     height: 100%;
-    width: 80px;
-    //background: red;
-    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, .24) 50.04%, rgba(255, 255, 255, 0) 99.37%);
-    transform-origin: center center;
-    transform: rotate(22.5deg) scaleY(1.2);
+
+    transform-origin: top right;
   }
 }
